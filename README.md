@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/saklechas03/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/saklechas03/DSA/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saklechas03/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/saklechas03/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/saklechas03/DSA/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saklechas03/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -22,5 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/saklechas03/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/saklechas03/DSA/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/saklechas03/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/saklechas03/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
