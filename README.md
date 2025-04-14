@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/saklechas03/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/saklechas03/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saklechas03/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0898-transpose-matrix](https://github.com/saklechas03/DSA/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/saklechas03/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/saklechas03/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Two Pointers
@@ -43,9 +44,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/saklechas03/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/saklechas03/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0898-transpose-matrix](https://github.com/saklechas03/DSA/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/saklechas03/DSA/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/saklechas03/DSA/tree/master/0054-spiral-matrix) |
+| [0898-transpose-matrix](https://github.com/saklechas03/DSA/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
