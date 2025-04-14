@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/saklechas03/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/saklechas03/DSA/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saklechas03/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1677-matrix-diagonal-sum](https://github.com/saklechas03/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/saklechas03/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Two Pointers
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saklechas03/DSA/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/saklechas03/DSA/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
