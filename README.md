@@ -63,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/saklechas03/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saklechas03/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/saklechas03/DSA/tree/master/0048-rotate-image) |
 | [0415-add-strings](https://github.com/saklechas03/DSA/tree/master/0415-add-strings) |
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/saklechas03/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saklechas03/DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/saklechas03/DSA/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/saklechas03/DSA/tree/master/0409-longest-palindrome) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/saklechas03/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saklechas03/DSA/tree/master/0013-roman-to-integer) |
 | [0409-longest-palindrome](https://github.com/saklechas03/DSA/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/saklechas03/DSA/tree/master/0415-add-strings) |
