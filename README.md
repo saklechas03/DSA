@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saklechas03/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/saklechas03/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saklechas03/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/saklechas03/DSA/tree/master/0268-missing-number) |
 | [0898-transpose-matrix](https://github.com/saklechas03/DSA/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/saklechas03/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/saklechas03/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/saklechas03/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saklechas03/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saklechas03/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/saklechas03/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/saklechas03/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saklechas03/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/saklechas03/DSA/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/saklechas03/DSA/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/saklechas03/DSA/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/saklechas03/DSA/tree/master/1013-fibonacci-number) |
 ## Hash Table
@@ -79,12 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/saklechas03/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saklechas03/DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/saklechas03/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/saklechas03/DSA/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/saklechas03/DSA/tree/master/0409-longest-palindrome) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saklechas03/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saklechas03/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/saklechas03/DSA/tree/master/0268-missing-number) |
 | [1970-sorting-the-sentence](https://github.com/saklechas03/DSA/tree/master/1970-sorting-the-sentence) |
 | [2887-sort-vowels-in-a-string](https://github.com/saklechas03/DSA/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
@@ -126,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/saklechas03/DSA/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/saklechas03/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
