@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/saklechas03/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saklechas03/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/saklechas03/DSA/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/saklechas03/DSA/tree/master/0485-max-consecutive-ones) |
 | [0898-transpose-matrix](https://github.com/saklechas03/DSA/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/saklechas03/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/saklechas03/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
