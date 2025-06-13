@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/saklechas03/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saklechas03/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/saklechas03/DSA/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/saklechas03/DSA/tree/master/1013-fibonacci-number) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/saklechas03/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/saklechas03/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saklechas03/DSA/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/saklechas03/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saklechas03/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/saklechas03/DSA/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/saklechas03/DSA/tree/master/0409-longest-palindrome) |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/saklechas03/DSA/tree/master/0948-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/saklechas03/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
