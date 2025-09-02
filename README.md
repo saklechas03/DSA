@@ -181,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/saklechas03/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/saklechas03/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/saklechas03/DSA/tree/master/0046-permutations) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/saklechas03/DSA/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
